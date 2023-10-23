@@ -33,7 +33,7 @@ export default function Features() {
                         Utilize the latest Tech Stacks from a professional team
                     </h2>
                     <p className="mt-6 text-lg leading-8 text-gray-600">
-                        Let us design, build and develop your next project. Whether that is your company's website, a highly converting landing page, a SaaS application or a mobile app. We've got you covered.
+                        Let us design, build and develop your next project. Whatever your construction is, we make it a reality.
                     </p>
                 </div>
                 <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
